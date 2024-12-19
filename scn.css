@@ -652,11 +652,10 @@
             color: #3f3f3f;
         }
 
-        .jdgsCont {
+        .jdgs-cont {
             float: left;
             width: 100%;
             height: 735px;
-            color: white;
             background-color: black;
         }
 
